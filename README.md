@@ -15,10 +15,10 @@
         <td style="border: 1px solid black; padding: 10px;">Md Taufiq us Samad Tonmoy</td>
       </tr>
       <tr>
-        <td style="border: 1px solid black; padding: 10px;">20229003</td>
-        <td style="border: 1px solid black; padding: 10px;">20229055</td>
-        <td style="border: 1px solid black; padding: 10px;">20229004</td>
-        <td style="border: 1px solid black; padding: 10px;">20229001</td>
+        <td style="text-align: center; border: 1px solid black; padding: 10px;">20229003</td>
+        <td style="text-align: center; border: 1px solid black; padding: 10px;">20229055</td>
+        <td style="text-align: center; border: 1px solid black; padding: 10px;">20229004</td>
+        <td style="text-align: center; border: 1px solid black; padding: 10px;">20229001</td>
       </tr>
     </table>
   </div>
